@@ -1,0 +1,19 @@
+segment_sources:
+  I52D5C45D:
+    type: origin_type
+    relation: translation
+    language: en
+  I599E93FA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  740a1f08a186449f9cb332c13dabb155:
+    I52D5C45D: 3119ef42e1834d72b664d6fbfa5b972c
+    I599E93FA: fec072408be349108951d3dc6c415268
+  ab8752570db74f22be67ba369134c7ab:
+    I52D5C45D: d4629e9e6afc447d8aaa4771b2abc13d
+    I599E93FA: 04febbf98788429689d8a100a319e0a4
+  282910d56c384bafa7a502009dca32a6:
+    I52D5C45D: 01c75e0070b34de0998b93067f70f94a
+    I599E93FA: b3ea8d19066b4dd0aeaaf40b82f99fa9

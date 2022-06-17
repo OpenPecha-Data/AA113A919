@@ -1,0 +1,13 @@
+segment_sources:
+  I52D5C45D:
+    type: origin_type
+    relation: translation
+    language: en
+  I599E93FA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  28ddbebb5f8348cf90955d2442422b0b:
+    I52D5C45D: 49aee31e3a284ed485bc2e20384d89f3
+    I599E93FA: c8a301659c1b49c49a82cef6df8cf27c
